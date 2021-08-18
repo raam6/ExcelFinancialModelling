@@ -1,4 +1,9 @@
-# StockPortfolioRiskReturns
-Stock Risk &amp; Return Calculation as well as Portfolio Risk and Return in Excel
+Data= 60-Month Returns for 4 Stocks + Risk Free (TBill)  
 
-Using monthly returns data for 4 stocks in a 60-month period, we analyse returns & risk. 
+# 1. StockPortfolioRiskReturns
+- Distributions of returns, Histogram of frequency
+- Stock Risk: variance & std. deviation, covariance.
+- Portfolio Return: average returns, rebalancing
+- Portfolio Risk: portfolio variance
+- Covariance Matrix: correlation calculations
+- Charting: Eleven 2 stock portfolios charted on scatter plot.
