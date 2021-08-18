@@ -7,3 +7,7 @@ Data= 60-Month Returns for 4 Stocks + Risk Free (TBill)
 - Portfolio Risk: portfolio variance
 - Covariance Matrix: correlation calculations
 - Charting: Eleven 2 stock portfolios charted on scatter plot.
+
+# 2. Regression Analysis
+- Single variable Linear Regression
+- Regression based portfolio performance analysis
